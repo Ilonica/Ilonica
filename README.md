@@ -2,7 +2,7 @@
 - 👀 I’m interested in graphics, art, 3D modeling.
 - 🔸 Favorite languages C++ and Python.
 - 🌱 I’m currently learning to be a programmer.
-- 📫 How to reach me: twitter @ilonica5.
+- 📫 Reach me via twitter @ilonica5.
 
 <!---
 Ilonica/Ilonica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
